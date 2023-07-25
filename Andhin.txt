@@ -1,0 +1,5 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+memiliki ketertarikan dan minat dalam dunia pemrograman dan pengembangan perangkat lunak. merasa senang dan bersemangat untuk belajar tentang berbagai bahasa pemrograman, algoritma, dan teknologi terkini.
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+Bidang teknologi informasi, khususnya pengembangan perangkat lunak, memiliki prospek karir yang cerah. Permintaan akan profesional RPL terus meningkat seiring dengan perkembangan industri digital.
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
